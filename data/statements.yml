@@ -324,7 +324,7 @@ statements:
       some ((has_unit value mm) and (has_magnitude some (float[>= 5.5f] and float[<=
       9.1f])))))))
   tags:
-  - tag_needed
+  - measurement 
 - text: Body length.—7.0–7.8 mm.
   source:
     citation: 
@@ -334,7 +334,7 @@ statements:
       some ((has_unit value mm) and (has_magnitude some (float[>= 7.0f] and float[<=
       7.8f])))))))
   tags:
-  - tag_needed
+  - measurement 
 - text: Body length.—4.6–8.0 mm.
   source:
     citation: 
@@ -344,7 +344,7 @@ statements:
       some ((has_unit value mm) and (has_magnitude some (float[>= 4.6f] and float[<=
       8.0f])))))))
   tags:
-  - tag_needed
+  - measurement
 - text: Body length.—5.3–6.6 mm.
   source:
     citation: 
@@ -354,7 +354,7 @@ statements:
       some ((has_unit value mm) and (has_magnitude some (float[>= 5.3f] and float[<=
       6.6f])))))))
   tags:
-  - tag_needed
+  - measurement
 - text: Body length.—6.5–6.8 mm.
   source:
     citation: 
@@ -364,7 +364,7 @@ statements:
       some ((has_unit value mm) and (has_magnitude some (float[>= 6.5f] and float[<=
       6.8f])))))))
   tags:
-  - tag_needed
+  - measurement 
 - text: 'Median clypeal projection sharpness: pointed.'
   source:
     citation: 
@@ -373,7 +373,7 @@ statements:
     manchester: has part some (clypeus and (has part some (ventro-medial margin and
       (has part some (projection and (is bearer of some pointed))))))
   tags:
-  - tag_needed
+  - shape 
 - text: 'Median clypeal projection sharpness: blunt.'
   source:
     citation: 
@@ -382,7 +382,7 @@ statements:
     manchester: has part some (clypeus and (has part some (ventro-medial margin and
       (has part some (projection and (is bearer of some blunt))))))
   tags:
-  - tag_needed
+  - shape 
 - text: 'Lower face texture: foveate.'
   source:
     citation: 
@@ -390,7 +390,8 @@ statements:
   representation:
     manchester: has part some (lower face and (is bearer of some foveate))
   tags:
-  - tag_needed
+  - pattern 
+  - spatial
 - text: 'Lower face texture: foveae absent.'
   source:
     citation: 
@@ -399,7 +400,8 @@ statements:
     manchester: has part some (lower face and (is bearer of some (texture and (not
       (foveate)))))
   tags:
-  - tag_needed
+  - pattern
+  - spatial 
 - text: 'Median carina of lower face presence: absent.'
   source:
     citation: 
@@ -408,7 +410,9 @@ statements:
     manchester: has part some (lower face and (has part some (medial region and (not
       (has part some carina)))))
   tags:
-  - tag_needed
+  - spatial
+  - negation
+  - complex 
 - text: 'Median carina of lower face presence: present.'
   source:
     citation: 
@@ -417,7 +421,8 @@ statements:
     manchester: has part some (lower face and (has part some (medial region and (has
       part some carina))))
   tags:
-  - tag_needed
+  - spatial
+   complex 
 - text: 'Malar space length: longer than 0.5 of compound eye height.'
   source:
     citation: 
@@ -427,7 +432,8 @@ statements:
       some ((has_unit some (length and (inheres in some compound eye))) and (has_magnitude
       some float[>= 0.5f]))))))
   tags:
-  - tag_needed
+  - comparative
+  - complex 
 - text: 'Malar space length: shorter than 0.5 of compound eye height.'
   source:
     citation: 
@@ -437,7 +443,8 @@ statements:
       some ((has_unit some (length and (inheres in some compound eye))) and (has_magnitude
       some float[< 0.5f]))))))
   tags:
-  - tag_needed
+  - comparative
+  - complex 
 - text: 'Carinae laterally on frons presence: present.'
   source:
     citation: 
@@ -446,7 +453,7 @@ statements:
     manchester: has part some (frons and (has part some (lateral region and (has part
       some carina))))
   tags:
-  - tag_needed
+  - spatial 
 - text: 'Carinae laterally on frons presence: absent.'
   source:
     citation: 
@@ -455,7 +462,8 @@ statements:
     manchester: has part some (frons and (has part some (lateral region and (not (has
       part some carina)))))
   tags:
-  - tag_needed
+  - spatial
+  - negation 
 - text: 'Antennal rim shape: raised laterally.'
   source:
     citation: 
@@ -464,7 +472,8 @@ statements:
     manchester: has part some (antennal rim and (has part some (lateral region and
       (is bearer of some raised))))
   tags:
-  - tag_needed
+  - shape
+  - spatial 
 - text: 'Antennal rim shape: not raised laterally.'
   source:
     citation: 
@@ -473,7 +482,9 @@ statements:
     manchester: has part some (antennal rim and (has part some (lateral region and
       (is bearer of some flat))))
   tags:
-  - tag_needed
+  - shape
+  - negation
+  - spatial 
 - text: 'Antennal shelf presence: present.'
   source:
     citation: 
@@ -481,7 +492,7 @@ statements:
   representation:
     manchester: has part some antennal shelf
   tags:
-  - tag_needed
+  - presence 
 - text: 'Antennal shelf presence: absent.'
   source:
     citation: 
@@ -489,7 +500,7 @@ statements:
   representation:
     manchester: not (has part some antennal shelf)
   tags:
-  - tag_needed
+  - presence 
 - text: 'Eye color: blue.'
   source:
     citation: 
@@ -497,7 +508,7 @@ statements:
   representation:
     manchester: has part some (compound eye and (is bearer of some blue))
   tags:
-  - tag_needed
+  - color 
 - text: 'Eye color: grey-silver.'
   source:
     citation: 
@@ -505,7 +516,7 @@ statements:
   representation:
     manchester: has part some (compound eye and (is bearer of some light grey))
   tags:
-  - tag_needed
+  - color 
 - text: 'Long setae (length >2x ocellus diameter) presence: absent.'
   source:
     citation: 
@@ -515,7 +526,9 @@ statements:
       some ((has_unit some (diameter and (inheres in some ocellus))) and (has_magnitude
       some float[> 2.0f])))))))
   tags:
-  - tag_needed
+  - comparative
+  - starred
+  - negation 
 - text: 'Long setae (length >2x ocellus diameter) presence: present.'
   source:
     citation: 
@@ -525,7 +538,7 @@ statements:
       some ((has_unit some (diameter and (inheres in some ocellus))) and (has_magnitude
       some float[> 2.0f]))))))
   tags:
-  - tag_needed
+  - comparative
 - text: 'Mandibular teeth count: 3.'
   source:
     citation: 
@@ -533,7 +546,7 @@ statements:
   representation:
     manchester: has part some (mandible and (has component exactly 3 tooth))
   tags:
-  - tag_needed
+  - count 
 - text: 'Mandibular teeth count: 4.'
   source:
     citation: 
@@ -541,7 +554,7 @@ statements:
   representation:
     manchester: has part some (mandible and (has component exactly 4 tooth))
   tags:
-  - tag_needed
+  - count 
 - text: 'Female scape length: equal to eye height.'
   source:
     citation: 
@@ -550,7 +563,7 @@ statements:
     manchester: has part some (scape and (is bearer of some (length and (similar_in_magnitude_relative_to
       some (length and (inheres in some compound eye))))))
   tags:
-  - tag_needed
+  - comparative 
 - text: 'Female scape length: greater than eye height.'
   source:
     citation: 
@@ -559,7 +572,7 @@ statements:
     manchester: has part some (scape and (is bearer of some (length and (increased_in_magnitude_relative_to
       some (length and (inheres in some compound eye))))))
   tags:
-  - tag_needed
+  - comparative 
 - text: 'Female flagellum color pattern: mono-colored.'
   source:
     citation: 
@@ -567,7 +580,8 @@ statements:
   representation:
     manchester: has part some (flagellum and (is bearer of some mono-colored))
   tags:
-  - tag_needed
+  - color
+  - pattern 
 - text: 'Female flagellum color pattern: banded.'
   source:
     citation: 
@@ -575,7 +589,8 @@ statements:
   representation:
     manchester: has part some (flagellum and (is bearer of some banded))
   tags:
-  - tag_needed
+  - color
+  - pattern
 - text: 'Female flagellum ventral sensillar patch spatial arrangement: F4-F11.'
   source:
     citation: 
@@ -594,7 +609,8 @@ statements:
       part some sensillar patch))))) and (has part some (ninth flagellomere and (has
       part some (ventral sideand (has part some sensillar patch)))))"
   tags:
-  - tag_needed
+  - spatial
+  - complex 
 - text: 'Female flagellum ventral sensillar patch spatial arrangement: F6-F11.'
   source:
     citation: 
@@ -613,7 +629,8 @@ statements:
       side and (has part some sensillar patch))))) and (has part some (ninth flagellomere
       and (has part some (ventral side and (has part some sensillar patch)))))"
   tags:
-  - tag_needed
+  - spatial
+  - complex 
 - text: 'Female flagellum ventral sensillar patch spatial arrangement: F5-F11.'
   source:
     citation: 
@@ -632,7 +649,8 @@ statements:
       (has part some sensillar patch))))) and (has part some (ninth flagellomere and
       (has part some (ventral sideand (has part some sensillar patch)))))"
   tags:
-  - tag_needed
+  - spatial
+  - complex
 - text: 'Shape of median area of pronotum: recurved.'
   source:
     citation: 
@@ -641,7 +659,8 @@ statements:
     manchester: has part some (pronotum and (has part some (dorso-medial region and
       (is bearer of some recurved))))
   tags:
-  - tag_needed
+  - shape
+  - spatial 
 - text: 'Shape of median area of pronotum: not recurved.'
   source:
     citation: 
@@ -650,7 +669,9 @@ statements:
     manchester: has part some (pronotum and (has part some (dorso-medial region and
       (is bearer of some (curved and (not (recurved)))))))
   tags:
-  - tag_needed
+  - negation
+  - shape
+  - spatial 
 - text: 'Sulcus delimiting pronotal lobe presence: present.'
   source:
     citation: 
@@ -659,7 +680,7 @@ statements:
     manchester: has part some (pronotal lobe and (has part some (anterior margin and
       (has part some sulcus))))
   tags:
-  - tag_needed
+  - complex
 - text: 'Sulcus delimiting pronotal lobe presence: absent.'
   source:
     citation: 
@@ -668,7 +689,8 @@ statements:
     manchester: has part some (pronotal lobe and (has part some (anterior margin and
       (not (has part some sulcus)))))
   tags:
-  - tag_needed
+  - complex
+  - negation 
 - text: 'Pronotal lobe carina presence: absent.'
   source:
     citation: 
@@ -676,7 +698,7 @@ statements:
   representation:
     manchester: has part some (pronotal lobe and (not (has part some carina)))
   tags:
-  - tag_needed
+  - presence
 - text: 'Pronotal lobe carina presence: present.'
   source:
     citation: 
@@ -684,7 +706,7 @@ statements:
   representation:
     manchester: has part some (pronotal lobe and (has part some carina))
   tags:
-  - tag_needed
+  - presence
 - text: 'Anteromedian carina of the prosternum presence: present.'
   source:
     citation: 
@@ -693,7 +715,7 @@ statements:
     manchester: has part some (prosternum and (has part some (antero-medial region
       and (has part some carina))))
   tags:
-  - tag_needed
+  - presence 
 - text: 'Anteromedian carina of the prosternum presence: absent.'
   source:
     citation: 
@@ -702,7 +724,7 @@ statements:
     manchester: has part some (prosternum and (has part some (antero-medial region
       and (not (has part some carina)))))
   tags:
-  - tag_needed
+  - presence 
 - text: 'Mesoscutal humeral sulcus continuity: discontinuous.'
   source:
     citation: 
@@ -711,7 +733,8 @@ statements:
     manchester: has part some (mesoscutal suprahumeral sulcus and (is bearer of some
       split))
   tags:
-  - tag_needed
+  - negation
+  - starred
 - text: 'Mesoscutal humeral sulcus continuity: continuous.'
   source:
     citation: 
@@ -728,7 +751,7 @@ statements:
   representation:
     manchester: has part some (notaulus and (is bearer of some sigmoid))
   tags:
-  - tag_needed
+  - shape 
 - text: 'Notaulus shape: falciform.'
   source:
     citation: 
@@ -736,7 +759,7 @@ statements:
   representation:
     manchester: has part some (notaulus and (is bearer of some falciform))
   tags:
-  - tag_needed
+  - shape 
 - text: 'Notaulus lateral margins alignment: parallel.'
   source:
     citation: 
@@ -744,7 +767,7 @@ statements:
   representation:
     manchester: has part some (notaulus and (is bearer of some linear))
   tags:
-  - tag_needed
+  - spatial 
 - text: 'Notaulus lateral margins alignment: diverging.'
   source:
     citation: 
@@ -752,7 +775,7 @@ statements:
   representation:
     manchester: has part some (notaulus and (is bearer of some tapered))
   tags:
-  - tag_needed
+  - spatial 
 - text: 'Median mesoscutal area shape: not prominent relative to lateral mesoscutal
     area.'
   source:
@@ -762,7 +785,10 @@ statements:
     manchester: has part some (median area of the mesoscutum and (is bearer of some
       (shape and (not (prominent)))))
   tags:
-  - tag_needed
+  - shape
+  - negation
+  - spatial 
+  - comparative
 - text: 'Median mesoscutal area shape: prominent relative to lateral mesoscutal area.'
   source:
     citation: 
@@ -771,7 +797,9 @@ statements:
     manchester: has part some (median area of the mesoscutum and (is bearer of some
       prominent))
   tags:
-  - tag_needed
+  - shape
+  - spatial
+  - comparative 
 - text: 'Scutoscutellar suture structure: foveate.'
   source:
     citation: 
@@ -779,7 +807,7 @@ statements:
   representation:
     manchester: has part some (scutoscutellar suture and (is bearer of some foveate))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Scutoscutellar suture structure: not foveate.'
   source:
     citation: 
@@ -788,7 +816,8 @@ statements:
     manchester: has part some (scutoscutellar suture and (is bearer of some (texture
       and (not (foveate)))))
   tags:
-  - tag_needed
+  - pattern
+  - negation
 - text: 'Ventro-lateral region of mesosoma texture: foveate.'
   source:
     citation: 
@@ -797,7 +826,8 @@ statements:
     manchester: has part some (mesosoma and (has part some (ventro-lateral region
       and (is bearer of some foveate))))
   tags:
-  - tag_needed
+  - pattern
+  - spatial 
 - text: 'Ventro-lateral region of mesosoma texture: areolate.'
   source:
     citation: 
@@ -806,7 +836,8 @@ statements:
     manchester: has part some (mesosoma and (has part some (ventro-lateral region
       and (is bearer of some areolate))))
   tags:
-  - tag_needed
+  - spatial
+  - pattern 
 - text: 'Anterolateral mesopectal projection 2-d shape: : isosceles triangular.'
   source:
     citation: 
@@ -815,7 +846,8 @@ statements:
     manchester: has part some (mesopectus and (has part some (corner and (is bearer
       of some isosceles triangular))))
   tags:
-  - tag_needed
+  - spatial
+  - shape
 - text: 'Anterolateral mesopectal projection 2-d shape: scalene triangular.'
   source:
     citation: 
@@ -824,7 +856,8 @@ statements:
     manchester: has part some (mesopectus and (has part some (corner and (is bearer
       of some scalene triangular))))
   tags:
-  - tag_needed
+  - spatial
+  - shape 
 - text: 'Speculum presence: absent.'
   source:
     citation: 
@@ -832,7 +865,7 @@ statements:
   representation:
     manchester: not (has part some speculum)
   tags:
-  - tag_needed
+  - presence 
 - text: 'Speculum presence: present.'
   source:
     citation: 
@@ -840,7 +873,7 @@ statements:
   representation:
     manchester: has part some speculum
   tags:
-  - tag_needed
+  - presence 
 - text: 'Epicnemium sculpture: smooth.'
   source:
     citation: 
@@ -848,7 +881,7 @@ statements:
   representation:
     manchester: has part some (epicnemium and (is bearer of some smooth))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Epicnemium sculpture: wrinkled.'
   source:
     citation: 
@@ -856,7 +889,7 @@ statements:
   representation:
     manchester: has part some (epicnemium and (is bearer of some wrinkled))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Epicnemial carina shape: convex medially.'
   source:
     citation: 
@@ -865,7 +898,8 @@ statements:
     manchester: has part some (epicnemial carina and (has part some (medial region
       and (is bearer of some convex))))
   tags:
-  - tag_needed
+  - shape
+  - spatial
 - text: 'Epicnemial carina shape: concave medially.'
   source:
     citation: 
@@ -874,7 +908,8 @@ statements:
     manchester: has part some (epicnemial carina and (has part some (medial region
       and (is bearer of some concave))))
   tags:
-  - tag_needed
+  - spatial
+  - shape 
 - text: 'Ventral margin of mesopectus length: longer than ventral margin of metapectus
     length.'
   source:
@@ -885,7 +920,8 @@ statements:
       bearer of some (length and (increased_in_magnitude_relative_to some (length
       and (inheres in some (ventral margin and (part of some metapectus))))))))))
   tags:
-  - tag_needed
+  - comparative
+  - spatial 
 - text: 'Ventral margin of mesopectus length: shorter than ventral margin of metapectus
     length.'
   source:
@@ -896,7 +932,8 @@ statements:
       bearer of some (length and (decreased_in_magnitude_relative_to some (length
       and (inheres in some (ventral margin and (part of some metapectus))))))))))
   tags:
-  - tag_needed
+  - comparative
+  - spatial 
 - text: 'Metapleural sulcus position: vertical.'
   source:
     citation: 
@@ -904,7 +941,7 @@ statements:
   representation:
     manchester: has part some (metapleural sulcus and (is bearer of some vertical))
   tags:
-  - tag_needed
+  - spatial 
 - text: 'Metapleural sulcus position: horizontal.'
   source:
     citation: 
@@ -912,7 +949,7 @@ statements:
   representation:
     manchester: has part some (metapleural sulcus and (is bearer of some horizontal))
   tags:
-  - tag_needed
+  - spatial 
 - text: 'Posterior margin of the propodeum ventrally of the propodeal foramen lateral
     view shape: convex.'
   source:
@@ -922,7 +959,8 @@ statements:
     manchester: has part some (propodeum and (has part some (posterior surface and
       (is bearer of some convex))))
   tags:
-  - tag_needed
+  - spatial
+  - shape 
 - text: 'Posterior margin of the propodeum ventrally of the propodeal foramen lateral
     view shape: straight.'
   source:
@@ -932,7 +970,8 @@ statements:
     manchester: has part some (propodeum and (has part some (posterior surface and
       (is bearer of some flat))))
   tags:
-  - tag_needed
+  - spatial
+  - shape 
 - text: 'Gastral scrobe conspicuousness: inconspicuous.'
   source:
     citation: 
@@ -941,7 +980,7 @@ statements:
     manchester: has part some (propodeum and (has part some (ventro-medial region
       and (has part some (scrobe and (is bearer of some inconspicuous))))))
   tags:
-  - tag_needed
+  - relative 
 - text: 'Gastral scrobe conspicuousness: conspicuous.'
   source:
     citation: 
@@ -950,7 +989,7 @@ statements:
     manchester: has part some (propodeum and (has part some (ventro-medial region
       and (has part some (scrobe and (is bearer of some conspicuous))))))
   tags:
-  - tag_needed
+  - relative 
 - text: 'Lateral carina of gastral scrobe presence: present.'
   source:
     citation: 
@@ -959,7 +998,7 @@ statements:
     manchester: has part some (propodeum and (has part some (scrobe and (has part
       some (lateral margin and (has part some carina))))))
   tags:
-  - tag_needed
+  - presence 
 - text: 'Lateral carina of gastral scrobe presence: absent.'
   source:
     citation: 
@@ -968,7 +1007,7 @@ statements:
     manchester: has part some (propodeum and (has part some (scrobe and (has part
       some (lateral margin and (not (has part some carina)))))))
   tags:
-  - tag_needed
+  - presence 
 - text: 'Submedian propodeal projection presence: absent.'
   source:
     citation: 
@@ -977,7 +1016,8 @@ statements:
     manchester: has part some (propodeum and (has part some (dorso-lateral region
       and (not (has part some projection)))))
   tags:
-  - tag_needed
+  - presence
+  - spatial 
 - text: 'Submedian propodeal projection presence: present.'
   source:
     citation: 
@@ -986,7 +1026,8 @@ statements:
     manchester: has part some (propodeum and (has part some (dorso-lateral region
       and (has part some projection))))
   tags:
-  - tag_needed
+  - presence 
+  - spatial
 - text: 'Nucha presence: absent.'
   source:
     citation: 
@@ -994,7 +1035,7 @@ statements:
   representation:
     manchester: not (has part some nucha)
   tags:
-  - tag_needed
+  - presence 
 - text: 'Nucha presence: present.'
   source:
     citation: 
@@ -1002,7 +1043,7 @@ statements:
   representation:
     manchester: has part some nucha
   tags:
-  - tag_needed
+  - presence 
 - text: 'Female metatibial spines presence: present.'
   source:
     citation: 
@@ -1010,7 +1051,8 @@ statements:
   representation:
     manchester: has part some (metatibia and (has part some spine))
   tags:
-  - tag_needed
+  - presence 
+  - frequency
 - text: 'Female metatibial spines presence: absent.'
   source:
     citation: 
@@ -1018,7 +1060,8 @@ statements:
   representation:
     manchester: has part some (metatibia and (not (has part some spine)))
   tags:
-  - tag_needed
+  - presence
+  - frequency 
 - text: '1M length vs. 1CUb length: equal.'
   source:
     citation: 
@@ -1028,7 +1071,8 @@ statements:
       of some (length and (similar_in_magnitude_relative_to some (length and (inheres
       in some (wing vein and (part of some fore wing))))))))))
   tags:
-  - tag_needed
+  - comparative
+  - abbreviation 
 - text: '1M length vs. 1CUb length: 1M is distinctly longer than 1CUb.'
   source:
     citation: 
@@ -1038,7 +1082,9 @@ statements:
       of some (length and (increased_in_magnitude_relative_to some (length and (inheres
       in some (wing vein and (part of some fore wing))))))))))
   tags:
-  - tag_needed
+  - comparative
+  - relative
+  - abbreviation 
 - text: 'Distal part of 4RS shape: arched distally.'
   source:
     citation: 
@@ -1047,7 +1093,8 @@ statements:
     manchester: has part some (fore wing and (has part some (wing vein and (has part
       some (distal region and (is bearer of some arched))))))
   tags:
-  - tag_needed
+  - spatial
+  - shape 
 - text: 'Distal part of 4RS shape: arched distally.'
   source:
     citation: 
@@ -1057,7 +1104,8 @@ statements:
       some (proximal region and (is bearer of some arched))) or (is bearer of some
       straight)))))
   tags:
-  - tag_needed
+  - spatial
+  - shape 
 - text: 'Costal cell coloration: brown in the distal 1/10th.'
   source:
     citation: 
@@ -1068,7 +1116,8 @@ statements:
       ((has_unit some (length and (inheres in some costal cell))) and (has_magnitude
       value 0.1f))))))))
   tags:
-  - tag_needed
+  - color
+  - spatial 
 - text: 'Costal cell coloration: brown in the distal 1/10th.'
   source:
     citation: 
@@ -1079,7 +1128,8 @@ statements:
       ((has_unit some (length and (inheres in some costal cell))) and (has_magnitude
       some float[>= 0.5f , <= 0.666f]))))))))
   tags:
-  - tag_needed
+  - color
+  - spatial 
 - text: 'Petiole texture: smooth.'
   source:
     citation: 
@@ -1087,7 +1137,7 @@ statements:
   representation:
     manchester: has part some (abdominal segment 2 and (is bearer of some smooth))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Petiole texture: furrowed.'
   source:
     citation: 
@@ -1095,7 +1145,7 @@ statements:
   representation:
     manchester: has part some (abdominal segment 2 and (is bearer of some furrowed))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Petiole pilosity: dense.'
   source:
     citation: 
@@ -1103,7 +1153,7 @@ statements:
   representation:
     manchester: has part some (abdominal segment 2 and (is bearer of some setose))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Petiole pilosity: sparse.'
   source:
     citation: 
@@ -1112,7 +1162,7 @@ statements:
     manchester: has part some (abdominal segment 2 and (is bearer of some (pilosity
       and (not (hairy)))))
   tags:
-  - tag_needed
+  - pattern 
 - text: 'Lateroventral carina of the petiole presence: present.'
   source:
     citation: 
@@ -1121,7 +1171,7 @@ statements:
     manchester: has part some (abdominal segment 2 and (has part some (ventro-lateral
       region and (has part some carina))))
   tags:
-  - tag_needed
+  - presence 
 - text: 'Lateroventral carina of the petiole presence: absent.'
   source:
     citation: 
@@ -1130,7 +1180,7 @@ statements:
     manchester: has part some (abdominal segment 2 and (has part some (ventro-lateral
       region and (not (has part some carina)))))
   tags:
-  - tag_needed
+  - presence 
 - text: 'Setiferous patch on dorsal region of abdominal terga 4-7 in female presence:
     present.'
   source:
@@ -1144,7 +1194,9 @@ statements:
       (has part some setiferous patch))))) and (has part some (abdominal tergum 7
       and (has part some (dorsal region and (has part some setiferous patch)))))"
   tags:
-  - tag_needed
+  - spatial
+  - complex
+  - presence 
 - text: 'Setiferous patch on dorsal region of abdominal terga 4-7 in female presence:
     absent.'
   source:
@@ -1159,7 +1211,9 @@ statements:
       tergum 7 and (has part some (dorsal region and (not (has part some setiferous
       patch))))))"
   tags:
-  - tag_needed
+  - spatial
+  - complex
+  - presence 
 - text: Antenna, head, and mesosoma black.
   source:
     citation: 
