@@ -142,7 +142,7 @@ statements:
     doi: ''
   tags:
   - shape
-  - comparative 
+  - comparative
   representations:
     manchester: ''
     standford: ''
@@ -184,7 +184,7 @@ statements:
   tags:
   - complex
   - size
-  - comparative 
+  - comparative
   - measurement
   representations:
     manchester: ''
@@ -1160,3 +1160,487 @@ statements:
       patch))))))"
   tags:
   - tag_needed
+- text: Antenna, head, and mesosoma black.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - color
+- text: Antenna short, flagellum slightly incrassated at center.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - relative
+- text: Medio-apical process present on sternite 2, slightly concave at center.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - complex
+  - relative
+  - spatial
+- text: flagellum somewhat incrassate at center.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - spatial
+- text: Head black with inner and outer orbits, antennal tubercles, clypeus, and mandible
+    black.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - color
+- text: Mesosoma with yellow spots at anterior corners of middle lobe and spot on
+    upper pronotum; meso and metascutellum orange.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - spatial
+- text: Malar space narrow, slightly less than diameter of an ocellus.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4495'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - shape
+  - comparative
+- text: ocelli enlarged with a transverse sulcus between their posterior margins;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - complex
+  - spatial
+- text: compound eyes slightly convergent below, inner margins broadly emarginate;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - complex
+  - relative
+- text: antennal socket rim with broad carina or thickening beneath small carina above
+    and lateral to antennal socket;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - complex
+  - relative
+  - frequency
+- text: clypeal L/W ratio not exceeding 0.4, central part slightly convex, with narrow,
+    apically projecting ledge;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - complex
+  - relative
+  - comparative
+- text: mandibles tridentate, weakly developed external carina extending from mandibular
+    base to point just proximad of inner tooth, obsolescent near its middle;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - count
+  - spatial
+  - complex
+  - relative
+  - starred
+- text: maxillary and labial palpi well-developed, conspicuous, 6 and 4 segmented
+    respectively.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - count
+  - complex
+  - relative
+  - starred
+- text: wings long, venation well-developed, forewing with three submarginal and two
+    discoidal cells, third submarginal cell two-thirds or more length of second, first
+    transverse cubital vein arising beyond basal third of first submarginal cell,
+    marginal cell elongate, costa extending distad of stigma a distance greater than
+    half length of stigma;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - complex
+  - relative
+  - starred
+- text: Metasoma. Segment I narrower than II in dorsal view, sternum I with median
+    sulcus somewhat expanded posteriorly;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - complex
+  - relative
+  - starred
+  - shape
+  - comparative
+- text: terga III-VII with punctures small, shallow except for row of larger, deeper
+    punctures before apex;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - negation
+  - spatial
+  - complex
+  - pattern
+- text: Pronotum with scattered, small punctures medially, larger, denser punctures
+    laterally;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - spatial
+  - pattern
+- text: Metasoma. First segment long and slender, L/H 2.5–4.0 (Fig. 10), sternum with
+    longitudinal sulcus narrow, slightly widened posteriorly;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - complex
+  - comparative
+  - relative
+  - shape
+- text: propodeum with dorsal sulcus strongly impressed, shining, raised area laterad
+    of sulcus finely reticulate, impunctate except for small lateral area, posterior
+    declivity sharp, carinate, sulcus between declivity and posterior transverse carina
+    smooth, shining;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4691'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - complex
+  - negation
+  - shape
+  - pattern
+- text: side of scutellum deeply hollowed with crenulate carinae and bordered by prominent
+    carinae;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4727'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - pattern
+  - complex
+  - relative
+- text: metanotum with median, raised, rectangular tubercle having radiating carinae;
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4727'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - pattern
+  - complex
+  - shape
+- text: "(RS+M)b short, nearly vertical;"
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4727'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - size
+  - relative
+  - abbreviation
+- text: 'Head: width 1.8–1.9 times its median length, 1.15–1.20 times width of mesoscutum.'
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - measurement
+  - shape
+- text: Head behind eyes (dorsal view) distinctly roundly narrowed.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - orientation
+  - relative
+  - shape
+- text: Ocelli medium-sized, arranged in triangle with base 1.2–1.3 times its sides.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - comparative
+  - relative
+- text: Frons excavation deep, not wide, not extending beyond antennal sockets, with
+    shallow or very shallow median furrow.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - negation
+  - relative
+- text: Eye without emargination opposite antennal socket, 1.3 times as high as broad.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - negation
+  - comparative
+- text: Face slightly convex, its width 0.9 times height of eye and 0.9–1.0 times
+    height of face and clypeus combined.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - relative
+  - comparative
+  - starred
+- text: Width of hypoclypeal depression almost equal to distance from edge of depression
+    to eye, 0.5–0.6 times width of face.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - comparative
+- text: Occipital carina not fused with hypostomal carina and obliterated ventrally.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - comparative
+  - negation
+- text: Penultimate segment 2.2–2.3 times longer than its width, 0.7–0.8 times as
+    long as apical segment; the latter pointed apically.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - complex
+  - comparative
+- text: Notauli complete, deep, narrow and densely crenulated, joining at the end
+    of mesoscutum in a longitudinally striate-rugose area.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - relative
+  - starred
+  - pattern
+  - complex
+- text: Prescutellar depression long, deep, with several more or less high carinae,
+    densely and distinctly reticulate-striate between carinae, 0.25–0.35 times as
+    long as scutellum.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - shape
+  - relative
+  - pattern
+  - complex
+  - comparative
+- text: Metanotal tooth low (lateral view).
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - orientation
+- text: Propodeal lateral tubercles large and wide.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+- text: First radiomedial vein (2RS) mainly or completely absent, rarely present and
+    short, or (exceptionally) with elongate anterior part of abscissa.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - frequency
+  - starred
+  - abbreviation
+- text: Brachial vein (2cu-a) long and mainly pigmented.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - frequency
+  - abbreviation
+  - color
+- text: Recurrent vein (m-cu) distinct or fine, straight or slightly curved, more
+    or less inclivous, interstitial, distinctly or sometimes faintly pigmented.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - relative
+  - shape
+  - color
+  - frequency
+  - abbreviation
+- text: Basitarsus of hind tarsus 0.55–0.60 times as long as second to fifth segments
+    combined.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - comparative
+- text: Median length of second and third tergites 1.1–1.2 times basal width of second
+    tergite, 0.8–0.9 times maximum width of these tergites.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - comparative
+  - starred
+  - frequency
+- text: Ovipositor short, its sheath about as long as first tergite of metasoma, 0.40–0.45
+    times as long as mesosoma, 0.18–0.22 times as long as fore wing.
+  source:
+    citation: 
+    doi: 'doi: 10.3897/JHR.44.4722'
+  representation:
+    manchester: 
+    stanford: 
+  tags:
+  - comparative
+  - frequency
