@@ -3,262 +3,980 @@ statements:
 - text: Labrum hidden under clypeus.
   context: 
   source:
-    citation: Antropov & Pulawski 1996 
-    doi: '' 
+    citation: Antropov & Pulawski 1996
+    doi: ''
   tags:
-  - spatial 
+  - spatial
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: Metanotal sculpture evanescent.
   context: 
   source:
-    citation: Antropov & Pulawski 1996 
-    doi: '' 
+    citation: Antropov & Pulawski 1996
+    doi: ''
   tags:
-  - color 
+  - color
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: All tibiae with short, sparse spines on outer side.
   context: 
   source:
-    citation: Antropov & Pulawski 1996 
-    doi: '' 
+    citation: Antropov & Pulawski 1996
+    doi: ''
   tags:
   - all
   - spatial
-  - quantity 
+  - quantity
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: Digitus almost straight or weakly convex ventrally, not crescent-shaped, with a round apex bearing 2-3 teeth (Figs. 30-33).
+- text: Digitus almost straight or weakly convex ventrally, not crescent-shaped, with
+    a round apex bearing 2-3 teeth (Figs. 30-33).
   context: 
   source:
     citation: Maeto 1996, JHR
-    doi: '' 
+    doi: ''
   tags:
-  - complex 
-  - shape 
-  - quantity 
+  - complex
+  - shape
+  - quantity
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: Lamina volsellaris with 1-15 setae or setal alveoli, usually with less than 8 setae except for Cotesia, in which it has 6-15 setae (Table 1, Fig. 56).
+- text: Lamina volsellaris with 1-15 setae or setal alveoli, usually with less than
+    8 setae except for Cotesia, in which it has 6-15 setae (Table 1, Fig. 56).
   context: 
   source:
     citation: Maeto 1996, JHR
-    doi: '' 
+    doi: ''
   tags:
-  - complex 
-  - shape 
-  - quantity 
+  - complex
+  - shape
+  - quantity
   - exception
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: Cuspis glabrous and separated from digitus.
   context: 
   source:
     citation: Maeto 1996, JHR
-    doi: '' 
+    doi: ''
   tags:
-  - complex 
-  - spatial  
+  - complex
+  - spatial
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: tergum VI with discrete, carinate pygidial plate;
   context: 
   source:
-    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
-    doi: '' 
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp
+      tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research
+      5:80-99.'
+    doi: ''
   tags:
-  - complex 
+  - complex
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: Head considerably broader than long in front view;
   context: 
-  source: 
-    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
-    doi: '' 
+  source:
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp
+      tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research
+      5:80-99.'
+    doi: ''
   tags:
   - size
-  - orientation 
+  - orientation
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: metastemum with strongly projecting ventrally bilobate process;
   context: 
-  source: 
-    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
-    doi: '' 
+  source:
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp
+      tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research
+      5:80-99.'
+    doi: ''
   tags:
   - relative
-  - spatial 
+  - spatial
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: epipygium unmodified;
   context: 
-  source: 
-    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
-    doi: '' 
+  source:
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp
+      tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research
+      5:80-99.'
+    doi: ''
   tags:
   - negation
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: pronotum with transverse yellow band on anterior carina and around posterolateral lobe;
+- text: pronotum with transverse yellow band on anterior carina and around posterolateral
+    lobe;
   context: 
-  source: 
-    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
-    doi: '' 
+  source:
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp
+      tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research
+      5:80-99.'
+    doi: ''
   tags:
-  - color 
+  - color
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
 - text: eyes ovoid, one-third as long as head or less;
   context: 
-  source: 
-    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
-    doi: '' 
+  source:
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp
+      tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research
+      5:80-99.'
+    doi: ''
   tags:
   - shape
-  - relative 
+  - relative
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: The third metasomal tergite (T3) is not punctate and the prepectus is very narrow.
+- text: The third metasomal tergite (T3) is not punctate and the prepectus is very
+    narrow.
   context: 
-  source: 
-    citation: 'Darling, D. C. 1996. Generic concepts in the Perilampidae (Hymenoptera: Chalcidoidea): an assessment of recently proposed genera. Journal of Hymenoptera Research 5:100-130.'
-    doi: '' 
+  source:
+    citation: 'Darling, D. C. 1996. Generic concepts in the Perilampidae (Hymenoptera:
+      Chalcidoidea): an assessment of recently proposed genera. Journal of Hymenoptera
+      Research 5:100-130.'
+    doi: ''
   tags:
   - complex
-  - shape 
+  - shape
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text:  Hind wing with r-m as long as R 
+- text: Hind wing with r-m as long as R
   context: 
-  source: 
-    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.'
-    doi: '' 
+  source:
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer
+      (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research
+      13:149-205.'
+    doi: ''
   tags:
-  - size 
+  - size
   - abbreviation
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text:  face completely covered by granular microsculpture, setae as long as clypeus height, clypeus W/H 2.44, clypeus width 1.20X as long as malar space (Fig. 67).  
+- text: face completely covered by granular microsculpture, setae as long as clypeus
+    height, clypeus W/H 2.44, clypeus width 1.20X as long as malar space (Fig. 67).
   context: 
-  source: 
-    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.'
-    doi: '' 
-  tags:
-  - complex 
-  - size
-  - relative
-  - measurement 
-  representations:
-    manchester: '' 
-    standford: ''
-- text:  propodeum smooth, medioapical carinae straight, medioapical cell open (Fig. 70).  
-  context: 
-  source: 
-    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.' 
-    doi: '' 
-  tags:
-  - complex 
-  - shape 
-  representations:
-    manchester: '' 
-    standford: ''
-- text:  basal raised area of T2 0.21 of total T2 length, posterior margin of basal raised area irregularly bisinuate;  
-  context: 
-  source: 
-    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.'
-    doi: '' 
-  tags:
-  - complex 
-  - shape
-  - spatial 
-  representations:
-    manchester: '' 
-    standford: ''
-- text: Presternum with a distinct depression centrally subapically; mostly polished, smooth, but with medium-sized shallow punctures and micropunctures, both more frequent toward the external margin of each hemisternite;  
-  context: 
-  source: 
-    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
-    doi: '' 
-  tags:
-  - complex 
-  - spatial 
-  representations:
-    manchester: '' 
-    standford: ''
-- text: Para-petiolar depression shallow and mostly polished, smooth, with 1-2 transverse subcrenulations or incomplete carina.  
-  context: 
-  source: 
-    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
-    doi: '' 
-  tags:
-  - or 
-  representations:
-    manchester: '' 
-    standford: ''
-- text: Mesepisternum covered with sparse shallow foveolation and micropunctures; polished, smooth between foveae; dorsal part distinctly transversely striate; pilosity sparse, associated with foveolae, but dense, delicate pilosity on dorsal part.  
-  context: 
-  source: 
-    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
-    doi: '' 
+  source:
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer
+      (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research
+      13:149-205.'
+    doi: ''
   tags:
   - complex
-  - spatial 
+  - size
+  - relative
+  - measurement
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: Frons strongly transverse rugose ventrally, then suddenly longitudinally rugose dorso-laterally.   
+- text: propodeum smooth, medioapical carinae straight, medioapical cell open (Fig.
+    70).
   context: 
-  source: 
-    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
-    doi: '' 
+  source:
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer
+      (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research
+      13:149-205.'
+    doi: ''
   tags:
-  - spatial 
+  - complex
+  - shape
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: Pronotal fold indistinct, its position indicated by the semiannular, which raises suddenly (in lateral view, with a distinct step between these structures) (Fig. 2).    
+- text: basal raised area of T2 0.21 of total T2 length, posterior margin of basal
+    raised area irregularly bisinuate;
   context: 
-  source: 
-    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
-    doi: '' 
+  source:
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer
+      (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research
+      13:149-205.'
+    doi: ''
   tags:
-  - spatial 
+  - complex
+  - shape
+  - spatial
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: Semiannular latero-centrally mostly smooth, with several very small punctures, dorsally, and laterally in front of the pronotal lobe, strongly transversely rugose (Figs 2-3).    
+- text: Presternum with a distinct depression centrally subapically; mostly polished,
+    smooth, but with medium-sized shallow punctures and micropunctures, both more
+    frequent toward the external margin of each hemisternite;
   context: 
-  source: 
-    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
-    doi: '' 
+  source:
+    citation: Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera),
+      with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research
+      14:1-6.
+    doi: ''
   tags:
-  - spatial 
+  - complex
+  - spatial
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-- text: Antenna with 46 flagellomeres.     
+- text: Para-petiolar depression shallow and mostly polished, smooth, with 1-2 transverse
+    subcrenulations or incomplete carina.
   context: 
-  source: 
-    citation: 'Leathers, J. W., D. D. Judd, and A. V. Z. Brower. 2005. A Review of the Species of the New World Braconid Genus Cyclaulacidea (Hymenoptera) with Key and Descriptions of Nine New Species. Journal of Hymenoptera Research 14:151-176.'
-    doi: '' 
+  source:
+    citation: Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera),
+      with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research
+      14:1-6.
+    doi: ''
   tags:
-  - count 
+  - or
   representations:
-    manchester: '' 
+    manchester: ''
     standford: ''
-
+- text: Mesepisternum covered with sparse shallow foveolation and micropunctures;
+    polished, smooth between foveae; dorsal part distinctly transversely striate;
+    pilosity sparse, associated with foveolae, but dense, delicate pilosity on dorsal
+    part.
+  context: 
+  source:
+    citation: Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera),
+      with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research
+      14:1-6.
+    doi: ''
+  tags:
+  - complex
+  - spatial
+  representations:
+    manchester: ''
+    standford: ''
+- text: Frons strongly transverse rugose ventrally, then suddenly longitudinally rugose
+    dorso-laterally.
+  context: 
+  source:
+    citation: Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera),
+      with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research
+      14:1-6.
+    doi: ''
+  tags:
+  - spatial
+  representations:
+    manchester: ''
+    standford: ''
+- text: Pronotal fold indistinct, its position indicated by the semiannular, which
+    raises suddenly (in lateral view, with a distinct step between these structures)
+    (Fig. 2).
+  context: 
+  source:
+    citation: Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera),
+      with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research
+      14:1-6.
+    doi: ''
+  tags:
+  - spatial
+  representations:
+    manchester: ''
+    standford: ''
+- text: Semiannular latero-centrally mostly smooth, with several very small punctures,
+    dorsally, and laterally in front of the pronotal lobe, strongly transversely rugose
+    (Figs 2-3).
+  context: 
+  source:
+    citation: Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera),
+      with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research
+      14:1-6.
+    doi: ''
+  tags:
+  - spatial
+  representations:
+    manchester: ''
+    standford: ''
+- text: Antenna with 46 flagellomeres.
+  context: 
+  source:
+    citation: Leathers, J. W., D. D. Judd, and A. V. Z. Brower. 2005. A Review of
+      the Species of the New World Braconid Genus Cyclaulacidea (Hymenoptera) with
+      Key and Descriptions of Nine New Species. Journal of Hymenoptera Research 14:151-176.
+    doi: ''
+  tags:
+  - count
+  representations:
+    manchester: ''
+    standford: ''
+- text: Body length.—5.5-9.1 mm.
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (body and (is bearer of some (length and (has_measurement
+      some ((has_unit value mm) and (has_magnitude some (float[>= 5.5f] and float[<=
+      9.1f])))))))
+- text: Body length.—7.0–7.8 mm.
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (body and (is bearer of some (length and (has_measurement
+      some ((has_unit value mm) and (has_magnitude some (float[>= 7.0f] and float[<=
+      7.8f])))))))
+- text: Body length.—4.6–8.0 mm.
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (body and (is bearer of some (length and (has_measurement
+      some ((has_unit value mm) and (has_magnitude some (float[>= 4.6f] and float[<=
+      8.0f])))))))
+- text: Body length.—5.3–6.6 mm.
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (body and (is bearer of some (length and (has_measurement
+      some ((has_unit value mm) and (has_magnitude some (float[>= 5.3f] and float[<=
+      6.6f])))))))
+- text: Body length.—6.5–6.8 mm.
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (body and (is bearer of some (length and (has_measurement
+      some ((has_unit value mm) and (has_magnitude some (float[>= 6.5f] and float[<=
+      6.8f])))))))
+- text: 'Median clypeal projection sharpness: pointed.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (clypeus and (has part some (ventro-medial margin and
+      (has part some (projection and (is bearer of some pointed))))))
+- text: 'Median clypeal projection sharpness: blunt.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (clypeus and (has part some (ventro-medial margin and
+      (has part some (projection and (is bearer of some blunt))))))
+- text: 'Lower face texture: foveate.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (lower face and (is bearer of some foveate))
+- text: 'Lower face texture: foveae absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (lower face and (is bearer of some (texture and (not
+      (foveate)))))
+- text: 'Median carina of lower face presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (lower face and (has part some (medial region and (not
+      (has part some carina)))))
+- text: 'Median carina of lower face presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (lower face and (has part some (medial region and (has
+      part some carina))))
+- text: 'Malar space length: longer than 0.5 of compound eye height.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (malar line and (is bearer of some (length and (has_measurement
+      some ((has_unit some (length and (inheres in some compound eye))) and (has_magnitude
+      some float[>= 0.5f]))))))
+- text: 'Malar space length: shorter than 0.5 of compound eye height.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (malar line and (is bearer of some (length and (has_measurement
+      some ((has_unit some (length and (inheres in some compound eye))) and (has_magnitude
+      some float[< 0.5f]))))))
+- text: 'Carinae laterally on frons presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (frons and (has part some (lateral region and (has part
+      some carina))))
+- text: 'Carinae laterally on frons presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (frons and (has part some (lateral region and (not (has
+      part some carina)))))
+- text: 'Antennal rim shape: raised laterally.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (antennal rim and (has part some (lateral region and
+      (is bearer of some raised))))
+- text: 'Antennal rim shape: not raised laterally.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (antennal rim and (has part some (lateral region and
+      (is bearer of some flat))))
+- text: 'Antennal shelf presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some antennal shelf
+- text: 'Antennal shelf presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: not (has part some antennal shelf)
+- text: 'Eye color: blue.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (compound eye and (is bearer of some blue))
+- text: 'Eye color: grey-silver.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (compound eye and (is bearer of some light grey))
+- text: 'Long setae (length >2x ocellus diameter) presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: not (has part some (seta and (is bearer of some (length and (has_measurement
+      some ((has_unit some (diameter and (inheres in some ocellus))) and (has_magnitude
+      some float[> 2.0f])))))))
+- text: 'Long setae (length >2x ocellus diameter) presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (seta and (is bearer of some (length and (has_measurement
+      some ((has_unit some (diameter and (inheres in some ocellus))) and (has_magnitude
+      some float[> 2.0f]))))))
+- text: 'Mandibular teeth count: 3.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mandible and (has component exactly 3 tooth))
+- text: 'Mandibular teeth count: 4.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mandible and (has component exactly 4 tooth))
+- text: 'Female scape length: equal to eye height.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (scape and (is bearer of some (length and (similar_in_magnitude_relative_to
+      some (length and (inheres in some compound eye))))))
+- text: 'Female scape length: greater than eye height.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (scape and (is bearer of some (length and (increased_in_magnitude_relative_to
+      some (length and (inheres in some compound eye))))))
+- text: 'Female flagellum color pattern: mono-colored.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (flagellum and (is bearer of some mono-colored))
+- text: 'Female flagellum color pattern: banded.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (flagellum and (is bearer of some banded))
+- text: 'Female flagellum ventral sensillar patch spatial arrangement: F4-F11.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: "(has part some (apical flagellomere and eleventh flagellomere and
+      (has part some (ventral side and (has part some sensillar patch))))) and (has
+      part some (tenth flagellomere and (has part some (ventral side and (has part
+      some sensillar patch))))) and (has part some (fifth flagellomere and (has part
+      some (ventral side and (has part some sensillar patch))))) and (has part some
+      (fourth flagellomere and (has part some (ventral side and (has part some sensillar
+      patch))))) and (has part some (sixth flagellomere and (has part some (ventral
+      side and (has part some sensillar patch))))) and (has part some (seventh flagellomere
+      and (has part some (ventral side and (has part some sensillar patch))))) and
+      (has part some (eighth flagellomere and (has part some (ventral side and (has
+      part some sensillar patch))))) and (has part some (ninth flagellomere and (has
+      part some (ventral sideand (has part some sensillar patch)))))"
+- text: 'Female flagellum ventral sensillar patch spatial arrangement: F6-F11.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: "(has part some (apical flagellomere and eleventh flagellomere and
+      (has part some (ventral side and (has part some sensillar patch))))) and (has
+      part some (tenth flagellomere and (has part some (ventral side and (has part
+      some sensillar patch))))) and (has part some (fifth flagellomere and (has part
+      some (ventral side and (not (has part some sensillar patch)))))) and (has part
+      some (fourth flagellomere and (has part some (ventral side and (not (has part
+      some sensillar patch)))))) and (has part some (sixth flagellomere and (has part
+      some (ventral side and (has part some sensillar patch))))) and (has part some
+      (seventh flagellomere and (has part some (ventral side and (has part some sensillar
+      patch))))) and (has part some (eighth flagellomere and (has part some (ventral
+      side and (has part some sensillar patch))))) and (has part some (ninth flagellomere
+      and (has part some (ventral side and (has part some sensillar patch)))))"
+- text: 'Female flagellum ventral sensillar patch spatial arrangement: F5-F11.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: "(has part some (apical flagellomere and eleventh flagellomere and
+      (has part some (ventral side and (has part some sensillar patch))))) and (has
+      part some (tenth flagellomere and (has part some (ventral side and (has part
+      some sensillar patch))))) and (has part some (fifth flagellomere and (has part
+      some (ventral side and (has part some sensillar patch))))) and (has part some
+      (fourth flagellomere and (has part some (ventral side and (not (has part some
+      sensillar patch)))))) and (has part some (sixth flagellomere and (has part some
+      (ventral side and (has part some sensillar patch))))) and (has part some (seventh
+      flagellomere and (has part some (ventral side and (has part some sensillar patch)))))
+      and (has part some (eighth flagellomere and (has part some (ventral side and
+      (has part some sensillar patch))))) and (has part some (ninth flagellomere and
+      (has part some (ventral sideand (has part some sensillar patch)))))"
+- text: 'Shape of median area of pronotum: recurved.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (pronotum and (has part some (dorso-medial region and
+      (is bearer of some recurved))))
+- text: 'Shape of median area of pronotum: not recurved.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (pronotum and (has part some (dorso-medial region and
+      (is bearer of some (curved and (not (recurved)))))))
+- text: 'Sulcus delimiting pronotal lobe presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (pronotal lobe and (has part some (anterior margin and
+      (has part some sulcus))))
+- text: 'Sulcus delimiting pronotal lobe presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (pronotal lobe and (has part some (anterior margin and
+      (not (has part some sulcus)))))
+- text: 'Pronotal lobe carina presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (pronotal lobe and (not (has part some carina)))
+- text: 'Pronotal lobe carina presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (pronotal lobe and (has part some carina))
+- text: 'Anteromedian carina of the prosternum presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (prosternum and (has part some (antero-medial region
+      and (has part some carina))))
+- text: 'Anteromedian carina of the prosternum presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (prosternum and (has part some (antero-medial region
+      and (not (has part some carina)))))
+- text: 'Mesoscutal humeral sulcus continuity: discontinuous.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesoscutal suprahumeral sulcus and (is bearer of some
+      split))
+- text: 'Mesoscutal humeral sulcus continuity: continuous.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesoscutal suprahumeral sulcus and (is bearer of some
+      undivided))
+- text: 'Notaulus shape: sigmoid.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (notaulus and (is bearer of some sigmoid))
+- text: 'Notaulus shape: falciform.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (notaulus and (is bearer of some falciform))
+- text: 'Notaulus lateral margins alignment: parallel.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (notaulus and (is bearer of some linear))
+- text: 'Notaulus lateral margins alignment: diverging.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (notaulus and (is bearer of some tapered))
+- text: 'Median mesoscutal area shape: not prominent relative to lateral mesoscutal
+    area.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (median area of the mesoscutum and (is bearer of some
+      (shape and (not (prominent)))))
+- text: 'Median mesoscutal area shape: prominent relative to lateral mesoscutal area.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (median area of the mesoscutum and (is bearer of some
+      prominent))
+- text: 'Scutoscutellar suture structure: foveate.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (scutoscutellar suture and (is bearer of some foveate))
+- text: 'Scutoscutellar suture structure: not foveate.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (scutoscutellar suture and (is bearer of some (texture
+      and (not (foveate)))))
+- text: 'Ventro-lateral region of mesosoma texture: foveate.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesosoma and (has part some (ventro-lateral region
+      and (is bearer of some foveate))))
+- text: 'Ventro-lateral region of mesosoma texture: areolate.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesosoma and (has part some (ventro-lateral region
+      and (is bearer of some areolate))))
+- text: 'Anterolateral mesopectal projection 2-d shape: : isosceles triangular.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesopectus and (has part some (corner and (is bearer
+      of some isosceles triangular))))
+- text: 'Anterolateral mesopectal projection 2-d shape: scalene triangular.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesopectus and (has part some (corner and (is bearer
+      of some scalene triangular))))
+- text: 'Speculum presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: not (has part some speculum)
+- text: 'Speculum presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some speculum
+- text: 'Epicnemium sculpture: smooth.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (epicnemium and (is bearer of some smooth))
+- text: 'Epicnemium sculpture: wrinkled.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (epicnemium and (is bearer of some wrinkled))
+- text: 'Epicnemial carina shape: convex medially.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (epicnemial carina and (has part some (medial region
+      and (is bearer of some convex))))
+- text: 'Epicnemial carina shape: concave medially.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (epicnemial carina and (has part some (medial region
+      and (is bearer of some concave))))
+- text: 'Ventral margin of mesopectus length: longer than ventral margin of metapectus
+    length.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesopectus and (has part some (ventral margin and (is
+      bearer of some (length and (increased_in_magnitude_relative_to some (length
+      and (inheres in some (ventral margin and (part of some metapectus))))))))))
+- text: 'Ventral margin of mesopectus length: shorter than ventral margin of metapectus
+    length.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (mesopectus and (has part some (ventral margin and (is
+      bearer of some (length and (decreased_in_magnitude_relative_to some (length
+      and (inheres in some (ventral margin and (part of some metapectus))))))))))
+- text: 'Metapleural sulcus position: vertical.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (metapleural sulcus and (is bearer of some vertical))
+- text: 'Metapleural sulcus position: horizontal.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (metapleural sulcus and (is bearer of some horizontal))
+- text: 'Posterior margin of the propodeum ventrally of the propodeal foramen lateral
+    view shape: convex.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (posterior surface and
+      (is bearer of some convex))))
+- text: 'Posterior margin of the propodeum ventrally of the propodeal foramen lateral
+    view shape: straight.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (posterior surface and
+      (is bearer of some flat))))
+- text: 'Gastral scrobe conspicuousness: inconspicuous.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (ventro-medial region
+      and (has part some (scrobe and (is bearer of some inconspicuous))))))
+- text: 'Gastral scrobe conspicuousness: conspicuous.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (ventro-medial region
+      and (has part some (scrobe and (is bearer of some conspicuous))))))
+- text: 'Lateral carina of gastral scrobe presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (scrobe and (has part
+      some (lateral margin and (has part some carina))))))
+- text: 'Lateral carina of gastral scrobe presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (scrobe and (has part
+      some (lateral margin and (not (has part some carina)))))))
+- text: 'Submedian propodeal projection presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (dorso-lateral region
+      and (not (has part some projection)))))
+- text: 'Submedian propodeal projection presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (propodeum and (has part some (dorso-lateral region
+      and (has part some projection))))
+- text: 'Nucha presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: not (has part some nucha)
+- text: 'Nucha presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some nucha
+- text: 'Female metatibial spines presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (metatibia and (has part some spine))
+- text: 'Female metatibial spines presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (metatibia and (not (has part some spine)))
+- text: '1M length vs. 1CUb length: equal.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (fore wing and (has part some (wing vein and (is bearer
+      of some (length and (similar_in_magnitude_relative_to some (length and (inheres
+      in some (wing vein and (part of some fore wing))))))))))
+- text: '1M length vs. 1CUb length: 1M is distinctly longer than 1CUb.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (fore wing and (has part some (wing vein and (is bearer
+      of some (length and (increased_in_magnitude_relative_to some (length and (inheres
+      in some (wing vein and (part of some fore wing))))))))))
+- text: 'Distal part of 4RS shape: arched distally.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (fore wing and (has part some (wing vein and (has part
+      some (distal region and (is bearer of some arched))))))
+- text: 'Distal part of 4RS shape: arched distally.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (fore wing and (has part some (wing vein and ((has part
+      some (proximal region and (is bearer of some arched))) or (is bearer of some
+      straight)))))
+- text: 'Costal cell coloration: brown in the distal 1/10th.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (costal cell and (has part some (distal region and (is
+      bearer of some brown) and (is bearer of some (length and (has_measurement some
+      ((has_unit some (length and (inheres in some costal cell))) and (has_magnitude
+      value 0.1f))))))))
+- text: 'Costal cell coloration: brown in the distal 1/10th.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (costal cell and (has part some (distal region and (is
+      bearer of some brown) and (is bearer of some (length and (has_measurement some
+      ((has_unit some (length and (inheres in some costal cell))) and (has_magnitude
+      some float[>= 0.5f , <= 0.666f]))))))))
+- text: 'Petiole texture: smooth.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (abdominal segment 2 and (is bearer of some smooth))
+- text: 'Petiole texture: furrowed.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (abdominal segment 2 and (is bearer of some furrowed))
+- text: 'Petiole pilosity: dense.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (abdominal segment 2 and (is bearer of some setose))
+- text: 'Petiole pilosity: sparse.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (abdominal segment 2 and (is bearer of some (pilosity
+      and (not (hairy)))))
+- text: 'Lateroventral carina of the petiole presence: present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (abdominal segment 2 and (has part some (ventro-lateral
+      region and (has part some carina))))
+- text: 'Lateroventral carina of the petiole presence: absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: has part some (abdominal segment 2 and (has part some (ventro-lateral
+      region and (not (has part some carina)))))
+- text: 'Setiferous patch on dorsal region of abdominal terga 4-7 in female presence:
+    present.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: "(has part some (abdominal tergum 4 and (has part some (dorsal region
+      and (has part some setiferous patch))))) and (has part some (abdominal tergum
+      5 and (has part some (dorsal region and (has part some setiferous patch)))))
+      and (has part some (abdominal tergum 6 and (has part some (dorsal region and
+      (has part some setiferous patch))))) and (has part some (abdominal tergum 7
+      and (has part some (dorsal region and (has part some setiferous patch)))))"
+- text: 'Setiferous patch on dorsal region of abdominal terga 4-7 in female presence:
+    absent.'
+  source:
+    source: 
+    doi: doi:10.1093/sysbio/syt028
+  representation:
+    manchester: "(has part some (abdominal tergum 4 and (has part some (dorsal region
+      and (not (has part some setiferous patch)))))) and (has part some (abdominal
+      tergum 5 and (has partsome (dorsal region and (not (has part some setiferous
+      patch)))))) and (has part some (abdominal tergum 6 and (has part some (dorsal
+      region and (not (has part some setiferous patch)))))) and (has part some (abdominal
+      tergum 7 and (has part some (dorsal region and (not (has part some setiferous
+      patch))))))"
