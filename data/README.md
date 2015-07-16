@@ -29,3 +29,4 @@ abbreviation - the statement includes an abbrieviation
 measurement - the statement includes a quantified measurement, with unites
 count - the statement contains some cardinality/enumeration 
 frequency - the statement discusses variation (e.g. "frequently", "rarely", "or" etc.)
+presence - the statement is strictly a 1:1 statement corresponding to the presence or absences of a single structure
