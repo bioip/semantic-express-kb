@@ -1,0 +1,13 @@
+---
+:statements:
+- :statement: head red
+  :context: legs purple; head read; eyes green
+  :source:
+    :citation: Some citation
+    :doi: Some DOI
+  :tags:
+  - color
+  - simple
+  :representations:
+    :manchester: head and has part some red
+    :standford: ''

@@ -1,0 +1,264 @@
+---
+statements:
+- text: Labrum hidden under clypeus.
+  context: 
+  source:
+    citation: Antropov & Pulawski 1996 
+    doi: '' 
+  tags:
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Metanotal sculpture evanescent.
+  context: 
+  source:
+    citation: Antropov & Pulawski 1996 
+    doi: '' 
+  tags:
+  - color 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: All tibiae with short, sparse spines on outer side.
+  context: 
+  source:
+    citation: Antropov & Pulawski 1996 
+    doi: '' 
+  tags:
+  - all
+  - spatial
+  - quantity 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Digitus almost straight or weakly convex ventrally, not crescent-shaped, with a round apex bearing 2-3 teeth (Figs. 30-33).
+  context: 
+  source:
+    citation: Maeto 1996, JHR
+    doi: '' 
+  tags:
+  - complex 
+  - shape 
+  - quantity 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Lamina volsellaris with 1-15 setae or setal alveoli, usually with less than 8 setae except for Cotesia, in which it has 6-15 setae (Table 1, Fig. 56).
+  context: 
+  source:
+    citation: Maeto 1996, JHR
+    doi: '' 
+  tags:
+  - complex 
+  - shape 
+  - quantity 
+  - exception
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Cuspis glabrous and separated from digitus.
+  context: 
+  source:
+    citation: Maeto 1996, JHR
+    doi: '' 
+  tags:
+  - complex 
+  - spatial  
+  representations:
+    manchester: '' 
+    standford: ''
+- text: tergum VI with discrete, carinate pygidial plate;
+  context: 
+  source:
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
+    doi: '' 
+  tags:
+  - complex 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Head considerably broader than long in front view;
+  context: 
+  source: 
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
+    doi: '' 
+  tags:
+  - size
+  - orientation 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: metastemum with strongly projecting ventrally bilobate process;
+  context: 
+  source: 
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
+    doi: '' 
+  tags:
+  - relative
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: epipygium unmodified;
+  context: 
+  source: 
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
+    doi: '' 
+  tags:
+  - negation
+  representations:
+    manchester: '' 
+    standford: ''
+- text: pronotum with transverse yellow band on anterior carina and around posterolateral lobe;
+  context: 
+  source: 
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
+    doi: '' 
+  tags:
+  - color 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: eyes ovoid, one-third as long as head or less;
+  context: 
+  source: 
+    citation: 'Kimsey, L. S. 1996. Phylogenetic relationships of the thynnine wasp tribe Rhagigasterini (Hymenoptera: Tiphiidae). Journal of Hymenoptera Research 5:80-99.'
+    doi: '' 
+  tags:
+  - shape
+  - relative 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: The third metasomal tergite (T3) is not punctate and the prepectus is very narrow.
+  context: 
+  source: 
+    citation: 'Darling, D. C. 1996. Generic concepts in the Perilampidae (Hymenoptera: Chalcidoidea): an assessment of recently proposed genera. Journal of Hymenoptera Research 5:100-130.'
+    doi: '' 
+  tags:
+  - complex
+  - shape 
+  representations:
+    manchester: '' 
+    standford: ''
+- text:  Hind wing with r-m as long as R 
+  context: 
+  source: 
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.'
+    doi: '' 
+  tags:
+  - size 
+  - abbreviation
+  representations:
+    manchester: '' 
+    standford: ''
+- text:  face completely covered by granular microsculpture, setae as long as clypeus height, clypeus W/H 2.44, clypeus width 1.20X as long as malar space (Fig. 67).  
+  context: 
+  source: 
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.'
+    doi: '' 
+  tags:
+  - complex 
+  - size
+  - relative
+  - measurement 
+  representations:
+    manchester: '' 
+    standford: ''
+- text:  propodeum smooth, medioapical carinae straight, medioapical cell open (Fig. 70).  
+  context: 
+  source: 
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.' 
+    doi: '' 
+  tags:
+  - complex 
+  - shape 
+  representations:
+    manchester: '' 
+    standford: ''
+- text:  basal raised area of T2 0.21 of total T2 length, posterior margin of basal raised area irregularly bisinuate;  
+  context: 
+  source: 
+    citation: 'Williams, D. J. 2004. Revision of the Genus Pseudognaptodon Fischer (Hymenoptera: Braconidae: Gnamptodontinae). Journal of Hymenoptera Research 13:149-205.'
+    doi: '' 
+  tags:
+  - complex 
+  - shape
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Presternum with a distinct depression centrally subapically; mostly polished, smooth, but with medium-sized shallow punctures and micropunctures, both more frequent toward the external margin of each hemisternite;  
+  context: 
+  source: 
+    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
+    doi: '' 
+  tags:
+  - complex 
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Para-petiolar depression shallow and mostly polished, smooth, with 1-2 transverse subcrenulations or incomplete carina.  
+  context: 
+  source: 
+    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
+    doi: '' 
+  tags:
+  - or 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Mesepisternum covered with sparse shallow foveolation and micropunctures; polished, smooth between foveae; dorsal part distinctly transversely striate; pilosity sparse, associated with foveolae, but dense, delicate pilosity on dorsal part.  
+  context: 
+  source: 
+    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
+    doi: '' 
+  tags:
+  - complex
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Frons strongly transverse rugose ventrally, then suddenly longitudinally rugose dorso-laterally.   
+  context: 
+  source: 
+    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
+    doi: '' 
+  tags:
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Pronotal fold indistinct, its position indicated by the semiannular, which raises suddenly (in lateral view, with a distinct step between these structures) (Fig. 2).    
+  context: 
+  source: 
+    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
+    doi: '' 
+  tags:
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Semiannular latero-centrally mostly smooth, with several very small punctures, dorsally, and laterally in front of the pronotal lobe, strongly transversely rugose (Figs 2-3).    
+  context: 
+  source: 
+    citation: 'Aguiar, A. P. 2005. A New and Unusual Species of Stephanidae (Hymenoptera), with a Discussion on its Phylogenetic Implications. Journal of Hymenoptera Research 14:1-6.'
+    doi: '' 
+  tags:
+  - spatial 
+  representations:
+    manchester: '' 
+    standford: ''
+- text: Antenna with 46 flagellomeres.     
+  context: 
+  source: 
+    citation: 'Leathers, J. W., D. D. Judd, and A. V. Z. Brower. 2005. A Review of the Species of the New World Braconid Genus Cyclaulacidea (Hymenoptera) with Key and Descriptions of Nine New Species. Journal of Hymenoptera Research 14:151-176.'
+    doi: '' 
+  tags:
+  - count 
+  representations:
+    manchester: '' 
+    standford: ''
+
