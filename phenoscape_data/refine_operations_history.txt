@@ -1,0 +1,658 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column \"char_label using expression grel:value.replace(\"\\\"\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "\"char_label",
+    "expression": "grel:value.replace(\"\\\"\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column source using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "source",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column state_label using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "state_label",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column \"char_label using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "\"char_label",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "invert": false,
+          "selectError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "rightParen",
+                "l": "rightParen"
+              }
+            },
+            {
+              "v": {
+                "v": "http://purl.obolibrary.org/obo/pato",
+                "l": "http://purl.obolibrary.org/obo/pato"
+              }
+            },
+            {
+              "v": {
+                "v": "and",
+                "l": "and"
+              }
+            },
+            {
+              "v": {
+                "v": "%0A",
+                "l": "%0A"
+              }
+            },
+            {
+              "v": {
+                "v": "http://purl.org/phenoscape/subclassof?value",
+                "l": "http://purl.org/phenoscape/subclassof?value"
+              }
+            },
+            {
+              "v": {
+                "v": "leftParen",
+                "l": "leftParen"
+              }
+            },
+            {
+              "v": {
+                "v": "value",
+                "l": "value"
+              }
+            },
+            {
+              "v": {
+                "v": "http://purl.org/phenoscape/expression?value",
+                "l": "http://purl.org/phenoscape/expression?value"
+              }
+            },
+            {
+              "v": {
+                "v": "towards",
+                "l": "towards"
+              }
+            },
+            {
+              "v": {
+                "v": "equals",
+                "l": "equals"
+              }
+            },
+            {
+              "v": {
+                "v": "not",
+                "l": "not"
+              }
+            },
+            {
+              "v": {
+                "v": "some",
+                "l": "some"
+              }
+            }
+          ],
+          "name": "phenotype\" 1",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "phenotype\" 1"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column phenotype to phenotype\"",
+    "oldColumnName": "phenotype",
+    "newColumnName": "phenotype\""
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column \"char_label to char_label\"",
+    "oldColumnName": "\"char_label",
+    "newColumnName": "char_label\""
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column state_label to state_label\"",
+    "oldColumnName": "state_label",
+    "newColumnName": "state_label\""
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column source to source\"",
+    "oldColumnName": "source",
+    "newColumnName": "source\""
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" using expression value.unescape('html')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "expression": "value.unescape('html')",
+    "onError": "keep-original",
+    "repeat": true,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" using expression grel:value.replace(\"%25\",\"%\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "expression": "grel:value.replace(\"%25\",\"%\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" using expression grel:value.replace(\"%3C\",\"<\").replace(\"%3E\",\">\").replace(\"%3A\",\":\").replace(\"%2F\",\"/\").replace(\"%28\",\"(\").replace(\"%29\",\")\").replace(\"%3F\",\"?\").replace(\"%3D\",\"=\").replace(\"%2B\",\"+\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "expression": "grel:value.replace(\"%3C\",\"<\").replace(\"%3E\",\">\").replace(\"%3A\",\":\").replace(\"%2F\",\"/\").replace(\"%28\",\"(\").replace(\"%29\",\")\").replace(\"%3F\",\"?\").replace(\"%3D\",\"=\").replace(\"%2B\",\"+\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" using expression grel:value.replace(\"(\",\"leftParen+\").replace(\")\",\"+rightParen\").replace(\"<\",\"\").replace(\">\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "expression": "grel:value.replace(\"(\",\"leftParen+\").replace(\")\",\"+rightParen\").replace(\"<\",\"\").replace(\">\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" using expression grel:value.replace(\"%23towards\",\"+towards\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "expression": "grel:value.replace(\"%23towards\",\"+towards\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column phenotype\" by separator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "phenotype\"",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "#",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" 1 using expression grel:value.replace(\"++\",\"+\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "phenotype\" 1",
+    "expression": "grel:value.replace(\"++\",\"+\")",
+    "onError": "keep-original",
+    "repeat": true,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/multivalued-cell-split",
+    "description": "Split multi-valued cells in column phenotype\" 1",
+    "columnName": "phenotype\" 1",
+    "keyColumnName": "char_label\"",
+    "separator": "+",
+    "mode": "plain"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" 1 using expression grel:value.replace(\"=\",\"+equals+\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "phenotype\" 1",
+    "expression": "grel:value.replace(\"=\",\"+equals+\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/multivalued-cell-split",
+    "description": "Split multi-valued cells in column phenotype\" 1",
+    "columnName": "phenotype\" 1",
+    "keyColumnName": "char_label\"",
+    "separator": "+",
+    "mode": "plain"
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "invert": false,
+          "selectError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "rightParen",
+                "l": "rightParen"
+              }
+            },
+            {
+              "v": {
+                "v": "http://purl.obolibrary.org/obo/pato",
+                "l": "http://purl.obolibrary.org/obo/pato"
+              }
+            },
+            {
+              "v": {
+                "v": "and",
+                "l": "and"
+              }
+            },
+            {
+              "v": {
+                "v": "%0A",
+                "l": "%0A"
+              }
+            },
+            {
+              "v": {
+                "v": "http://purl.org/phenoscape/subclassof?value",
+                "l": "http://purl.org/phenoscape/subclassof?value"
+              }
+            },
+            {
+              "v": {
+                "v": "leftParen",
+                "l": "leftParen"
+              }
+            },
+            {
+              "v": {
+                "v": "value",
+                "l": "value"
+              }
+            },
+            {
+              "v": {
+                "v": "http://purl.org/phenoscape/expression?value",
+                "l": "http://purl.org/phenoscape/expression?value"
+              }
+            },
+            {
+              "v": {
+                "v": "towards",
+                "l": "towards"
+              }
+            },
+            {
+              "v": {
+                "v": "equals",
+                "l": "equals"
+              }
+            },
+            {
+              "v": {
+                "v": "not",
+                "l": "not"
+              }
+            },
+            {
+              "v": {
+                "v": "some",
+                "l": "some"
+              }
+            }
+          ],
+          "name": "phenotype\" 1",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "phenotype\" 1"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "description": "Create column JSON at index 3 by fetching URLs based on column phenotype\" 1 using expression grel:\"http://kb.phenoscape.org/api/term/label?iri=\"+value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "row.starred",
+          "selectBlank": false,
+          "invert": false,
+          "selectError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "name": "Starred Rows",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": ""
+        }
+      ]
+    },
+    "newColumnName": "JSON",
+    "columnInsertIndex": 3,
+    "baseColumnName": "phenotype\" 1",
+    "urlExpression": "grel:\"http://kb.phenoscape.org/api/term/label?iri=\"+value",
+    "onError": "set-to-blank",
+    "delay": 0
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column phenotype\" 1",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "phenotype\" 1",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "%0A"
+        ],
+        "to": "newlineCharacter"
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column labels at index 5 based on column JSON using expression grel:value.parseJson().label",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "newColumnName": "labels",
+    "columnInsertIndex": 5,
+    "baseColumnName": "JSON",
+    "expression": "grel:value.parseJson().label",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column labels to position 4",
+    "columnName": "labels",
+    "index": 4
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column labels using expression grel:cells[\"phenotype\\\" 1\"].value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "row.starred",
+          "selectBlank": false,
+          "invert": false,
+          "selectError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "name": "Starred Rows",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": ""
+        }
+      ]
+    },
+    "columnName": "labels",
+    "expression": "grel:cells[\"phenotype\\\" 1\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column FinishedString at index 5 based on column labels using expression grel:value",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "newColumnName": "FinishedString",
+    "columnInsertIndex": 5,
+    "baseColumnName": "labels",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column FinishedString",
+    "columnName": "FinishedString",
+    "keyColumnName": "char_label\"",
+    "separator": "+"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column FinishedString using expression grel:value.replace(\"+equals+\",\"=\").replace(\"leftParen+\",\"(\").replace(\"+rightParen\",\")\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "FinishedString",
+    "expression": "grel:value.replace(\"+equals+\",\"=\").replace(\"leftParen+\",\"(\").replace(\"+rightParen\",\")\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column labels using expression grel:value.replace(\"rightParen\",\")\").replace(\"leftParen\",\"(\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "labels",
+    "expression": "grel:value.replace(\"rightParen\",\")\").replace(\"leftParen\",\"(\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column phenotype\" 2 to identifier",
+    "oldColumnName": "phenotype\" 2",
+    "newColumnName": "identifier"
+  },
+  {
+    "op": "core/row-flag",
+    "description": "Flag rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": true,
+          "selection": [],
+          "selectError": false,
+          "invert": false,
+          "name": "FinishedString",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "FinishedString"
+        }
+      ]
+    },
+    "flagged": true
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column phenotype\" 1",
+    "columnName": "phenotype\" 1",
+    "keyColumnName": "char_label\"",
+    "separator": "+"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column phenotype\" 1 using expression grel:value.replace(\"rightParen\",\")\").replace(\"leftParen\",\"(\").replace(\"(+\",\"(\").replace(\"+)\",\")\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "phenotype\" 1",
+    "expression": "grel:value.replace(\"rightParen\",\")\").replace(\"leftParen\",\"(\").replace(\"(+\",\"(\").replace(\"+)\",\")\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column char_label\" to char_label",
+    "oldColumnName": "char_label\"",
+    "newColumnName": "char_label"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column state_label\" to state_label",
+    "oldColumnName": "state_label\"",
+    "newColumnName": "state_label"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column phenotype\" 1 to Original_phenotype",
+    "oldColumnName": "phenotype\" 1",
+    "newColumnName": "Original_phenotype"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column FinishedString to Parsed_phenotype",
+    "oldColumnName": "FinishedString",
+    "newColumnName": "Parsed_phenotype"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Parsed_phenotype to parsed_phenotype",
+    "oldColumnName": "Parsed_phenotype",
+    "newColumnName": "parsed_phenotype"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Original_phenotype to original_phenotype",
+    "oldColumnName": "Original_phenotype",
+    "newColumnName": "original_phenotype"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column source\" to source",
+    "oldColumnName": "source\"",
+    "newColumnName": "source"
+  }
+]

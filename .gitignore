@@ -38,3 +38,7 @@ build/
 .idea
 .DS_Store
 *.swp
+
+# eclipse
+.project
+
